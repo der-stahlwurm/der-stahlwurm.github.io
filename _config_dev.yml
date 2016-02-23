@@ -1,3 +1,4 @@
 # disqus lokal deaktivieren
 disqus:
 mediaurl: ""
+highlighter: pygments

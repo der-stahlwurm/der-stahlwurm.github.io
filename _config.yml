@@ -55,7 +55,7 @@ mediaurl: "http://blog-media.der-stahlwurm.de"
 #
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
