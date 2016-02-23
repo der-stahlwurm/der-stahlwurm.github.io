@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ueber-mich
 title: Über mich
 permalink: /ueber-mich/
 ---
@@ -8,7 +8,10 @@ Mein Name ist Frank Stelzer und ich habe Ende 2012 das Arbeiten mit Kettenringen
 Danach wollte ich meinen Händen etwas mehr Ruhe gönnen und mit dünnerem Draht arbeiten. So bin ich dann schließlich bei der Anfertigung von Kettenschmuck (*Chainmaille*) gelandet.  
 Ich betreibe alles als reines Hobby und bin anfangs ziemlich oft auf die Nase gefallen, weil ich meine ersten Gehversuche mit falschem Material und Hilfsmitteln gewagt habe. Information aus dem deutschsprachigen Raum gab es wenig, noch wusste ich, woher ich meine notwendige Ausstattung bekommen könnte ohne irgendwas von Übersee teuer importieren zu müssen. Denn eins ist klar, im amerikanischen Markt ist das Handwerk sehr stark vertreten. Auf dem hiesigen Markt sieht es eher Mau aus. Um Chainmaille Neulingen diesen anfänglichen Schmerz zu nehmen und auch mal auf deutsch meine Erfahrungen auszutauschen, habe ich angefangen darüber zu schreiben und versuche die üblichen Probleme an dieser Stelle zu besprechen. 
 
-
 ### Kontakt
 
 kontakt AT der-stahlwurm PUNKT de
+
+### Internetz
+
+Im Netz bin ich ansonsten noch auf Pinterest vertreten. Ich heiße dort (noch) [AuWire](https://de.pinterest.com/auwire/) und den Account pflege ich auf englisch. Was soll AuWire bedeuten? Es ist ein Wortspiel aus "Au Weia" und eben "Wire" (Draht).
